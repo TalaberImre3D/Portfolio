@@ -2,6 +2,6 @@
 
 
 body {
-  background: rgba(red, green, blue, alpha) !important;
-  
+  background: white;
+  color: black;
 }

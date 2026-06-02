@@ -12,7 +12,7 @@ export default function Home() {
           <Modal.Title>Modal title</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <p>Modal body text goes here.</p>
+          <p>Yoyony.</p>
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary">Close</Button>
