@@ -8,7 +8,7 @@ export default function MyNavbar() {
   return (
     <Navbar bg="dark" data-bs-theme="dark" expand="lg">
       <Container>
-        <Navbar.Brand href="/">My Portfolio</Navbar.Brand>
+        <Navbar.Brand href="/">Talaber3D</Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
